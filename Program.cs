@@ -26,7 +26,7 @@ namespace Task3
                 case "d":
                     Console.WriteLine("You move right!");
                     break;
-                    default:
+                default:
                     Console.WriteLine("I don't know this command!");
                     break;
             }
